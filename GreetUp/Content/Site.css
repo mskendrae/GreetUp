@@ -10,6 +10,22 @@
     padding-right: 15px;
 }
 
+/*Make title bold, white*/
+.chgText{
+    font-family: 'Courier New';
+    font-weight: 700;
+    
+}
+/*make create page text white*/
+.whtText{
+    color:white;
+    font-weight: 300;
+}
+
+.makeBlack{
+    background-color:black;
+}
+
 /* Override the default bootstrap behavior where horizontal description lists 
    will truncate terms that are too long to fit in the left column 
 */
